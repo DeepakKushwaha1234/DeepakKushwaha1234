@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **C programming and React Web developer**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/abhinandan-kumar-02736721b](www.linkedin.com/in/abhinandan-kumar-02736721b)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/deepak-kumar-178778269](https://www.linkedin.com/in/deepak-kumar-178778269)
 
 - 📫 How to reach me **dkushwaha8083@gmail.com**
 
